@@ -15,3 +15,28 @@ nav li {
 .active {
 	color: yellow;
 }
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.promo {
+	color: gold;
+	font-weight: bold;
+}
+
+a .disabled {
+	color: purple;
+}
+
+.brother {
+	background: blue;
+}
+
+.sister {
+	background: red;
+}
