@@ -1,0 +1,17 @@
+header {
+	border: 1px;
+	color: hotpink;
+}
+
+nav li {
+	display: inline;
+	margin-right: 20px;
+} 	
+
+.disabled {
+	color: grey;
+}
+
+.active {
+	color: yellow;
+}
